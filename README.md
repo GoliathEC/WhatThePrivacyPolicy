@@ -11,6 +11,10 @@ If 'record video' is enabled (through settings menu), which is defaulted to disa
 
 Camera is inactive if not in 'game-state'.
 
-## Folder (file reading) persmission
+## Folder (file reading/writing) permission
 
 We use this permission to save any in-game recordings from a particular round. The user is given a choice in whether a video will be saved to their device. 
+
+## Audio Recording Permission
+
+If 'record video' is enabled (through settings menu), which is defaulted to disabled, then *during game play only*, we will use audio (from your device microphone) to produce a video of audience (player) participation during that round. 
