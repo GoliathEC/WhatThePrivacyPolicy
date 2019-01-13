@@ -18,3 +18,12 @@ We use this permission to save any in-game recordings from a particular round. T
 ## Audio Recording Permission
 
 If 'record video' is enabled (through settings menu), which is defaulted to disabled, then *during game play only*, we will use audio (from your device microphone) to produce a video of audience (player) participation during that round. 
+
+
+## Device & app history (read sensitive log data)
+
+This is not done by GoliathEC development team but instead by the Game engine Creator, Unity Technologies. Unity Technologies has stated that this is for analytical purposes only.    
+
+## full network access (Other)
+
+This is not done by GoliathEC development team but instead by the Game engine Creator, Unity Technologies. Unity Technologies has stated that this is for analytical purposes only. Network access, if any, is used to send the above analytical purposes.      
